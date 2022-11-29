@@ -14,6 +14,9 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 
 Very Soon We will Update it With New Features. 
 
+https://app.koyeb.com/deploy?type=git&repository=github.com/lazyindu/koyebxs&branch=main&name=nvslinkfindbot
+
+
 ## Installation
 
 <details><summary><b>Deploy to Heroku</b></summary>
