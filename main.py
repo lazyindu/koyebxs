@@ -9,7 +9,7 @@ from TeamTeleRoid.forcesub import ForceSub
 
 # Bot Client for Inline Search
 Bot = Client(
-    name=Config.BOT_SESSION_NAME,
+    session_name=Config.BOT_SESSION_NAME,
     api_id=Config.API_ID,
     api_hash=Config.API_HASH,
     bot_token=Config.BOT_TOKEN
