@@ -7,6 +7,9 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, 
     InputTextMessageContent
 from TeamTeleRoid.forcesub import ForceSub
 
+
+PORT = "8080"
+
 # Bot Client for Inline Search
 Bot = Client(
     session_name=Config.BOT_SESSION_NAME,
